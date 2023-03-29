@@ -1,32 +1,19 @@
-![header](https://capsule-render.vercel.app/api?
-type=wave&
-color=auto&
-height=300&
-section=header&
-text=깃허브%20특강&
-fontSize=90)
-
-### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Lee's%Github!&fontSize=90" />
 
 
 
-# - 🔭 I’m currently working on ...
-## - 🌱 I’m currently learning ...
-### - 👯 I’m looking to collaborate on ...
-#### - 🤔 I’m looking for help with ...
-##### - 💬 Ask me about ...
-###### - 📫 How to reach me: ...
-####### - 😄 Pronouns: ...
-########## - ⚡ Fun fact: ...
-
-## **bold**
-## *litali*
-## > ~~취소~~
->인용이
-
+##깃허브주소
 ```
-print("python")
+https://github.com/eotjddls8
 ```
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eotjddls8)](https://github.com/eotjddls8/github-readme-stats)
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=eotjddls8)](https://github.com/eotjddls8)
+
+
+![자바](https://img.shields.io/badge/-자바-007396?style=flat&logo=Java&logoColor=ffffff)
+
+
+
 
